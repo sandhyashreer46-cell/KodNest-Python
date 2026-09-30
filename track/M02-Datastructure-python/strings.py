@@ -17,3 +17,7 @@ print(s)
 str5 = "My name is \"sandhya\" from \ 'banglore \'studying in \ '''kodnest'''!"
 print(str5)
 
+a = "hello"
+b = "word"
+c = a + b
+print(c)
