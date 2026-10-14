@@ -33,4 +33,4 @@ set1.pop()
 print(set1) # {1,2,3,4,5,7}
 
 set1.clear() # {}
-print(set1, len(set1)) # {} ø
+print(set1, len(set1)) # {} ø 

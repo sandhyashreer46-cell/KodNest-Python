@@ -33,3 +33,5 @@ my_dict = student.copy()
 print(my_dict)
 my_dict.update({"name":"Amith"})
 print(my_dict)
+
+
